@@ -1,2 +1,2 @@
-# 1-hello-c
-2주차 C 실습
+# 12-2D-pointers
+12주차 C 실습
